@@ -1,9 +1,10 @@
 * cl-plus-ssl-osx-fix
 
-A fix for CL+SSL library paths on OSX needed when you have Intel and Arm64 Homebrew installations.
+Fix for CL+SSL library paths on OSX with both X86-64 and Arm64 Homebrew
 
-|---------+-------------------------------------------------------|
-| source  | git:https://github.com/40ants/cl-plus-ssl-osx-fix.git |
-| commit  | 70c8ec6                                               |
-| systems | cl-plus-ssl-osx-fix                                   |
-|---------+-------------------------------------------------------|
+|---------+----------------------------------------------------------------|
+| source  | git:https://github.com/40ants/cl-plus-ssl-osx-fix.git         |
+| commit  | d842610                                                        |
+| systems | cl-plus-ssl-osx-fix                                            |
+|---------+----------------------------------------------------------------|
+
