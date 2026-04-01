@@ -8,3 +8,4 @@ Fix for CL+SSL library paths on OSX with both X86-64 and Arm64 Homebrew
 | systems | cl-plus-ssl-osx-fix                                            |
 |---------+----------------------------------------------------------------|
 
+ 
